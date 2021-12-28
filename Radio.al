@@ -36,7 +36,7 @@ table 50101 "Radio Show"
         field(1090; "Date Filter"; date) { FieldClass = FlowFilter; }
         field(1100; "Signature"; Code[20])
         {
-            TableRelation = Tablepodpis;
+
 
 
         }
